@@ -1,9 +1,10 @@
 # OSlw_Example
-## classification:XOR
+## classification:XOR(STM32F4)
 
 ![simpleNN](https://github.com/Shuep418Slw/OSlw_Example/blob/master/picture/04%7E05.jpg)
 
-## RNN(GRU-RNN):8bit ADD
+## RNN(GRU-RNN):8bit ADD(STM32F4)
+
 ![RNN](https://github.com/Shuep418Slw/OSlw_Example/blob/master/picture/13-1.jpg)
 
 ![RNN](https://github.com/Shuep418Slw/OSlw_Example/blob/master/picture/13-2.jpg)
