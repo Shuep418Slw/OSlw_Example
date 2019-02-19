@@ -5,7 +5,7 @@
 
 ## CNN:MINST(STM32F730)
 
-![CNN]()
+![CNN](https://github.com/Shuep418Slw/OSlw_Example/blob/master/picture/MNIST-CNN.jpg)
 
 ## RNN(GRU-RNN):8bit ADD(STM32F4)
 
@@ -19,4 +19,4 @@
 
 ## RNN:MINST(STM32F1)
 
-![RNN]()
+![RNN](https://github.com/Shuep418Slw/OSlw_Example/blob/master/picture/MNIST-GRURNN.jpg)
