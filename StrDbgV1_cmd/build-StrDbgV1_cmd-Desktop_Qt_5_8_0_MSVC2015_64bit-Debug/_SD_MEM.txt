@@ -1,0 +1,25 @@
+24
+.I
+@save
+=id 10
+@save
+?id
+?id
+?id
+.?
+.I
+?id
+#arr i_{1,1,2}
+@mtx (arr[0],arr[2],arr[3])
+@mtx (arr[0],arr[2],arr[3])
+@mtx (arr[0],arr[1],arr[2])
+#arr i_{1,1,2}
+@mtx (arr[0],arr[1],arr[2])
+#arr i_{1,1,2}
+@mtx (arr[0],arr[1],arr[2])
+#arr i_{1,1,2}
+.M
+@mtx (arr[0],arr[1],arr[2])
+@mtx (arr[0],arr[1],arr[2])
+#arr i_{1,1,2}
+@mtx (arr[0],arr[1],arr[2])
